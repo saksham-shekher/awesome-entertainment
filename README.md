@@ -32,6 +32,10 @@
 - 🎥 [GoPlay](https://goplay.su/) - Free movie and series streaming.
 - 🎥 [Cinevez](https://www.cinevez.foo/) - Stream movies and series with a modern interface.
 
+
+## 📺 Live TV
+- 📡 [Global Free TV](https://www.globalfreetv.com/) - Watch free live TV channels from around the world. 7000+ channels across 150+ countries.
+
 ## 📖 Light Novel
 - 📚 [Fictionzone](https://fictionzone.net) - A vast collection of light novels.
 - 📚 [MTLNovel](https://www.mtlnovels.com) - A wide selection of light novels.
