@@ -120,21 +120,12 @@
 
 ## 🎭 YouTube Clients
 - 🎭 [LibreTube](https://github.com/libre-tube/LibreTube) - A privacy-focused YouTube client.
-- 🎭 [FluxTube](https://github.com/mu-fazil-vk/FluxTube) - A lightweight YouTube client.
-- 🎭 [VueTube](https://github.com/Frontesque/VueTube) - A modern YouTube client.
-- 🎭 [SongTube](https://github.com/SongTube/SongTube-App) - A powerful YouTube client.
 - 🎭 [NewPipe](https://github.com/TeamNewPipe/NewPipe) - A feature-rich YouTube client.
+- 🎭 [Morphe](https://github.com/MorpheApp) - A customizable YouTube client.
 - 🎭 [ReVanced](https://github.com/ReVanced) - A customizable YouTube client.
-- 🎭 [NewPipeX](https://github.com/NewPipeX/NewPipeX) - A feature-rich YouTube client.
-- 🎭 [Sky tube](https://github.com/SkyTubeTeam/SkyTube) - A modern YouTube client.
-- 🎭 [Free tube](https://github.com/FreeTubeApp/FreeTube) - A privacy-focused YouTube client.
-- 🎭 [uYouPlus](https://github.com/qnblackcat/uYouPlus) - A powerful YouTube client.
-- 🎭 [Smart tube next](https://github.com/yuliskov/SmartTube) - A modern YouTube client.
-- 🎭 [Clipious](https://github.com/lamarios/clipious) - A lightweight YouTube client.
-- 🎭 [Hyperion](https://github.com/zt64/Hyperion) - A modern YouTube client.
+- 🎭 [FreeTube](https://github.com/FreeTubeApp/FreeTube) - A privacy-focused YouTube client.
+- 🎭 [SmartTube](https://github.com/yuliskov/SmartTube) - A modern YouTube client.
 - 🎭 [Materialious](https://github.com/Materialious/Materialious) - A modern YouTube client.
-- 🎭 [Light tube](https://github.com/lighttube-org/LightTube-Android) - A lightweight YouTube client.
-- 🎭 [p tube](https://github.com/prateekmedia/pstube) - A modern YouTube client.
 
 ## 🎧 YouTube Music
 - 🎧 [Bloomee tunes](https://github.com/HemantKArya/BloomeeTunes) - A modern YouTube music player.
