@@ -36,6 +36,7 @@
 
 ## 📺 Live TV
 - 📡 [Global Free TV](https://www.globalfreetv.com/) - Watch free live TV channels from around the world. 7000+ channels across 150+ countries.
+- 📡 [Jiotv+](https://index.ironmancreation.workers.dev) - Watch free live TV channels from zee5, jiotv, yupptv and more.
 
 ## 📖 Light Novel
 - 📚 [Fictionzone](https://fictionzone.net) - A vast collection of light novels.
