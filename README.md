@@ -4,22 +4,15 @@
 ---
 
 ## 🎬 Movies & Series
-- 🎥 [CorsFlix](https://corsflix.us.kg/) - Watch movies and series online.
-- 🎥 [345movies](https://www.345movies.com/) - A vast collection of movies and TV shows.
-- 🎥 [Prmovies](https://prmovies.yoga) - Free movie streaming with a wide selection.
-- 🎥 [Movies2Watch](https://movies2watch.is) - Watch the latest movies and series.
+- 🎥 [Prmovies](https://prmovies.tours/) - Free movie streaming with a wide selection.
 - 🎥 [Cinemaos](https://cinemaos.live) - All your movie, series & anime needs in one place.
 - 🎥 [M4UHD](https://m4uhd.page) - High-quality movie streaming.
-- 🎥 [MultiMovies](https://multimovies.agency) - Watch movies and series online for free.
+- 🎥 [MultiMovies](https://multimovies.nl/) - Watch movies and series online for free.
 - 🎥 [SpenFlix](https://watch.spencerdevs.xyz) - Free movie streaming with a user-friendly interface.
-- 🎥 [Sflix](https://sflix.to/) - Stream movies and TV shows without ads.
-- 🎥 [AlienFlix](https://alienflix.net) - Watch movies and series online for free.
-- 🎥 [IOSMirror](https://netfree2.cc/mobile/) - Watch movies and series online.
-- 🎥 [Vidbox](https://vidbox.to) - Stream movies and series in high quality.
-- 🎥 [1tamilmv](https://www.1tamilmv.gold) - Tamil movies and series.
-- 🎥 [WatchToday](https://watchtoday.stream/) - Watch the latest movies and series.
+- 🎥 [Sflix](https://sflix.ps/) - Stream movies and TV shows without ads.
+- 🎥 [IShowMovies](https://ishowmovies.org/) - Watch movies and series online for free.
 - 🎥 [Lookmovie2](https://www.lookmovie2.to/) - A wide selection of movies and series.
-- 🎥 [Watchug](https://watchug.to/) - Stream movies and series with a modern interface.
+- 🎥 [WeFlix](https://weflix.to/) - Stream movies and series with a modern interface.
 - 🎥 [Dramanice](https://ww3.dramanice.video/) - Watch Korean dramas and series.
 - 🎥 [Kisskh](https://kisskh.ovh) - Stream movies and series with a clean layout.
 - 🎥 [Hydraflix](https://www.hydraflix.vip/home/) - Free movie and series streaming.
