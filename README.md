@@ -31,6 +31,7 @@
 - 🎥 [DramaFull](https://dramafull.co/) - Stream Korean dramas and series.
 - 🎥 [GoPlay](https://goplay.su/) - Free movie and series streaming.
 - 🎥 [Cinevez](https://www.cinevez.foo/) - Stream movies and series with a modern interface.
+- 🎥 [Shoof Aflam](https://shoofaflam.tv) - Free Arabic streaming guide. Find where to watch 14,000+ Arabic movies and series across 18 platforms (Shahid, Netflix, OSN+, etc.) in the Arab world.
 
 
 ## 📺 Live TV
