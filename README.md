@@ -1,6 +1,17 @@
 # Awesome Entertainment 🎉
 
-> A curated collection of awesome Android apps and web resources for movies, anime, manga, novels, live TV, and music. Contributions and suggestions are heartily ♥ welcome. (✿◕‿◕)
+> A curated list of actively maintained apps, extensions, and platforms for streaming, manga, anime, and reading.Focused on open-source, stable, and developer-friendly ecosystems.
+
+---
+
+# 📌 Disclaimer
+
+* Many free streaming websites are **unstable / illegal / not maintained**
+* Prefer:
+
+  * ✅ Apps + Extensions
+  * ✅ Open-source ecosystems
+  * ⚠️ Websites only as fallback
 
 ---
 
