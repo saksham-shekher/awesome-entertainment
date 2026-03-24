@@ -218,4 +218,4 @@
 
 ---
 
-<h4 align='center'>© 2025 ツ OshekharO</h4>
+<h4 align='center'>© 2026 ツ OshekharO</h4>
