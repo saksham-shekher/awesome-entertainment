@@ -73,21 +73,15 @@
 
 > Read and translate light novels, web novels, and Chinese fiction online.
 
+- 📚 [WTR-Lab](https://wtr-lab.com/) - Modern light novel reader with dark mode and a broad catalog.
+- 📚 [MTLBooks](https://mtlbooks.com) - LN reader with up-to-date chapter releases and a large library.
 - 📚 [Fictionzone](https://fictionzone.net) - Large collection of light novels with fast translation updates.
-- 📚 [MTLNovel](https://www.mtlnovels.com) - Machine-translated Chinese novels with search and bookmarking features.
 - 📚 [LNMTL](https://lnmtl.com) - Chapter-by-chapter machine translations of popular light novels.
 - 📚 [FANMTL](https://www.fanmtl.com) - Fan-sourced novel translations with community ratings and comments.
-- 📚 [Wuxiaworld](https://wuxiaworld.site) - Premier source for Chinese fantasy, cultivation, and xianxia novels.
 - 📚 [Wuxia](https://wuxia.click/) - Focused library of Chinese wuxia and martial arts fiction.
 - 📚 [NovelBuddy](https://novelbuddy.com) - Web novel reader with bookmarks, reading history, and recommendations.
 - 📚 [RoyalRoad](https://www.royalroad.com) - Community platform for original web fiction and independently published light novels.
 - 📚 [Ranobes](https://ranobes.top) - Extensive catalog of novels with fan-translated and machine-translated chapters.
-- 📚 [Ffxs8](https://www.ffxs8.com) - Chinese-language novel platform with a broad genre selection.
-- 📚 [Feiszw](https://www.feisuzw.com/) - Chinese web novel platform featuring an extensive content catalog.
-- 📚 [4ksw](http://www.4ksw.com/) - Chinese novel reader with a mobile-optimized layout.
-- 📚 [Wangshuge](http://wap.wangshuge.net) - Mobile-focused Chinese novel reading platform with easy navigation.
-- 📚 [txt520](https://www.txt520.com/) - Plain-text Chinese novel reader with a minimalist interface.
-- 📚 [Trxs](https://trxs.cc) - Chinese novel aggregator with update tracking for ongoing series.
 
 [↑ Back to top](#-table-of-contents)
 
@@ -97,20 +91,14 @@
 
 > Read manga, manhwa, manhua, and Western comics online.
 
-- 📚 [Manganato](https://manganato.com) - Fast manga reader with up-to-date chapter releases and a large library.
+- 📚 [Mangakakalot](https://www.mangakakalot.gg/) - Fast manga reader with up-to-date chapter releases and a large library.
 - 📚 [MangaDex](https://mangadex.org) - Community-driven scanlation platform supporting 40+ languages.
-- 📚 [Comick](https://comick.io) - Aggregated comic and manga reader with a clean, modern interface.
 - 📚 [MangaFire](https://mangafire.to) - High-quality scans with fast, reliable servers.
 - 📚 [MangaPark](https://mangapark.net) - Large library featuring chapters from multiple scanlation groups.
 - 📚 [Bato](https://bato.to) - Scanlation community platform for manga, manhwa, and manhua.
-- 📚 [WeebCentral](https://weebcentral.com) - Modern manga reader with dark mode and a broad catalog.
 - 📚 [MangaPill](https://mangapill.com) - Clean, ad-light reader with an extensive manga archive.
 - 📚 [MangaReader](https://mangareader.to) - High-quality manga with multiple server options and tracking features.
-- 📚 [FanFox](https://m.fanfox.net) - Mobile-optimized manga reader with a long-running archive.
-- 📚 [MangaTown](https://m.mangatown.com/) - Mobile-friendly reader with organized genre and author browsing.
 - 📚 [ReadComic](https://readcomiconline.li) - Large library of Western comics alongside manga titles.
-- 📚 [ComicExtra](https://comicextra.com) - Extensive Western comics library including Marvel and DC titles.
-- 📚 [NineManga](https://ninemanga.com) - Multilingual manga platform featuring community fan translations.
 
 [↑ Back to top](#-table-of-contents)
 
@@ -120,20 +108,12 @@
 
 > Stream subbed and dubbed anime series and movies online.
 
-- 📺 [Hianime](https://hianime.to) - Premium-quality anime streaming with AniList integration and rich episode info.
-- 📺 [GogoAnime](https://gogotaku.info) - One of the largest anime libraries online with both sub and dub options.
-- 📺 [Aniwave](https://aniwave.live) - High-quality anime streaming with MyAnimeList sync and auto-next episodes.
-- 📺 [Animeowl](https://animeowl.live/) - Low-ad anime streaming offering both dubbed and subbed content.
-- 📺 [KickAssAnime](https://watchanime.io) - Anime streaming with video progress tracking and a seasonal schedule.
-- 📺 [Anix](https://anix.vc/) - Modern anime platform with a clear seasonal update calendar.
-- 📺 [Gojo](https://gojo.wtf) - Minimalist anime streaming with fast load times and smooth playback.
-- 📺 [Wcostream](https://wcostream.cc) - Classic and modern cartoons alongside anime in one place.
-- 📺 [Kayoanime](https://kayoanime.com) - Anime streaming with easy tracking of ongoing series updates.
+- 📺 [AnimeKai](https://animekai.pw/) - Premium-quality anime streaming with AniList integration and rich episode info.
+- 📺 [Kuudere](https://kuudere.ru/home) - One of the largest anime libraries online.
+- 📺 [Animetsu](https://animetsu.live/) - High-quality anime streaming with MyAnimeList sync and auto-next episodes.
+- 📺 [AniSnatch](https://anisnatch.top/home) - Low-ad anime streaming offering both dubbed and subbed content.
+- 📺 [KickAssAnime](https://kickassanime.cx/) - Anime streaming with video progress tracking and a seasonal schedule.
 - 📺 [Animepahe](https://animepahe.ru/) - Compressed high-quality video ideal for users with limited bandwidth.
-- 📺 [Shiroko](https://shiroko.co) - Simple, fast anime streaming with a distraction-free interface.
-- 📺 [Animefox](https://animefox.sbs) - Anime streaming with a broad selection of dubbed and subbed titles.
-- 📺 [AnimeWorld](https://anime-world.in/) - Comprehensive anime library with multiple mirror servers.
-- 📺 [Allanime](https://allmanga.to) - Combined anime and manga platform with built-in list tracking.
 
 [↑ Back to top](#-table-of-contents)
 
