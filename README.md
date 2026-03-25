@@ -128,13 +128,6 @@
 - 🔞 [Literotica](https://search.literotica.com) - Community platform for erotic fiction and stories across many genres.
 - 🔞 [Toonily](https://toonily.me) - Adult manhwa platform with high-quality scans and regular updates.
 - 🔞 [Hanime](https://hanime.tv) - Adult anime streaming with HD quality and organized categories.
-- 🔞 [Hentaihaven](https://hentaihaven.xxx) - Adult anime and manga with a well-organized tag system.
-- 🔞 [Doujins](https://doujins.com) - Adult doujinshi reader with search and tag-based browsing.
-- 🔞 [Hentaihere](https://hentaihere.com) - Adult manga reader with an intuitive reading interface.
-- 🔞 [Hentai2read](https://hentai2read.com) - Adult manga platform featuring translated doujinshi and original works.
-- 🔞 [Tsumino](https://www.tsumino.com) - Adult manga reader with community ratings and curated lists.
-- 🔞 [8muses](https://comics.8muses.com) - Adult comics platform covering a wide range of artistic styles.
-- 🔞 [A-hentai](https://a-hentai.tv) - Adult manga and manhwa with categorized browsing.
 - 🔞 [Haho](https://haho.moe) - Adult manga and manhwa platform with a clean reading layout.
 
 [↑ Back to top](#-table-of-contents)
