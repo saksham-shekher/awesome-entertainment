@@ -138,28 +138,17 @@
 
 > Open-source Android apps for streaming anime, reading manga, novels, and more.
 
-- 📱 [Miru](https://github.com/Mancrop/mancrop-miru) - All-in-one app for anime, manga, and novels using a flexible extension system.
 - 📱 [CloudStream 3](https://github.com/LagradOst/CloudStream-3) - Plugin-based app for streaming movies, series, anime, and live TV.
 - 📱 [Flixclusive](https://github.com/rhenwinch/Flixclusive) - Material Design movie and series app with a provider plugin system.
-- 📱 [CineMax](https://github.com/BeamlakAschalew/cinemax) - Flutter-based movie and series streaming app with a polished UI.
-- 📱 [AnimeTV](https://github.com/amarullz/AnimeTV) - TV-optimized Android app for browsing and streaming anime.
 - 📱 [Mihon](https://github.com/mihonapp/mihon) - Open-source manga reader (Tachiyomi successor) with a vast extension library.
 - 📱 [Yokai](https://github.com/null2264/yokai) - Tachiyomi fork with enhanced UI and additional reading features.
-- 📱 [Awery](https://github.com/MrBoomDeveloper/Awery) - Multi-source reader for anime, manga, and light novels with tracking support.
 - 📱 [LNReader](https://github.com/LNReader/lnreader) - Dedicated light novel reader with offline downloads and chapter management.
 - 📱 [IReader](https://github.com/IReaderorg/IReader) - Extensible e-book and light novel reader with multiple source plugins.
 - 📱 [Legado](https://github.com/gedoor/legado) - Feature-rich Chinese e-book reader with broad source support.
 - 📱 [QuickNovel](https://github.com/LagradOst/QuickNovel) - Lightweight novel reader app with fast chapter loading.
-- 📱 [AnimeScrap](https://github.com/fakeyatogod/AnimeScrap) - Scrape and watch anime from multiple sources within a single app.
-- 📱 [OtakuWorld](https://github.com/jakepurple13/OtakuWorld#mangaworld) - Suite of reader apps for manga, anime, and novels in one ecosystem.
-- 📱 [Animity](https://github.com/kl3jvi/animity) - Anime tracking and streaming app with Kitsu integration.
-- 📱 [Neko](https://github.com/CarlosEsco/Neko) - MangaDex-focused manga reader with offline reading and tracking.
+- 📱 [Neko](https://github.com/nekomangaorg/Neko) - MangaDex-focused manga reader with offline reading and tracking.
 - 📱 [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) - Extended Tachiyomi fork with enhanced source support and tracking options.
-- 📱 [Kotatsu](https://github.com/nv95/Kotatsu) - Manga reader with built-in sources; no extensions needed.
-- 📱 [Tokeii](https://github.com/Sovan22/Tokeii) - Minimalist manga reader with a clean, distraction-free UI.
 - 📱 [Myne](https://github.com/Pool-Of-Tears/Myne) - Open Library e-book downloader and reader with Material Design.
-- 📱 [NovelDokusha](https://github.com/nanihadesuka/NovelDusha) - Web novel reader with background reading and text customization.
-- 📱 [Aniyomi](https://github.com/jmir1/Aniyomi) - Mihon fork that adds anime streaming support alongside manga reading.
 
 [↑ Back to top](#-table-of-contents)
 
