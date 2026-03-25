@@ -193,17 +193,12 @@
 > Open-source music players and YouTube Music clients for Android and desktop.
 
 - 🎧 [BloomeeTunes](https://github.com/HemantKArya/BloomeeTunes) - Music streaming app supporting YouTube, Spotify, and other sources.
-- 🎧 [InnerTune](https://github.com/z-huang/InnerTune) - Material Design YouTube Music client with offline caching.
-- 🎧 [OuterTune](https://github.com/DD3Boh/OuterTune) - InnerTune fork with enhanced lyrics display and offline support.
 - 🎧 [namida](https://github.com/namidaco/namida) - Feature-rich local and YouTube music player with advanced queue management.
-- 🎧 [spmp](https://github.com/toasterofbread/spmp) - Spotify-inspired YouTube Music client with synced lyrics.
 - 🎧 [Spotube](https://github.com/KRTirtho/spotube) - Cross-platform Spotify client using YouTube as a backend; no premium needed.
 - 🎧 [SimpMusic](https://github.com/maxrave-dev/SimpMusic) - YouTube Music client with lyrics synchronization and offline downloads.
-- 🎧 [RiMusic](https://github.com/fast4x/RiMusic) - Multilingual YouTube Music app with a customizable interface.
 - 🎧 [AbleMusicPlayer](https://github.com/uditkarode/AbleMusicPlayer) - YouTube Music client with Spotify playlist import support.
-- 🎧 [Ymusic](https://ymusic.io) - YouTube Music downloader and player with background play.
 - 🎧 [Musify](https://github.com/gokadzev/musify) - Music streaming app with support for multiple services and offline playback.
-- 🎧 [Serenity](https://github.com/YajanaRao/Serenity) - Cross-platform music player with YouTube and local library support.
+- 🎧 [Muzza](https://github.com/Maloy-Android/Muzza) - Cross-platform music player with YouTube and local library support.
 
 [↑ Back to top](#-table-of-contents)
 
