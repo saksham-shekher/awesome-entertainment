@@ -29,13 +29,38 @@ const config: Config = {
     locales: ['en'],
   },
 
+  headTags: [
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'preconnect',
+        href: 'https://fonts.googleapis.com',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'preconnect',
+        href: 'https://fonts.gstatic.com',
+        crossorigin: 'anonymous',
+      },
+    },
+    {
+      tagName: 'link',
+      attributes: {
+        rel: 'stylesheet',
+        href: 'https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap',
+      },
+    },
+  ],
+
   presets: [
     [
       'classic',
       {
         docs: {
           sidebarPath: './sidebars.ts',
-          routeBasePath: '/',
+          routeBasePath: '/docs',
         },
         blog: false,
         theme: {
@@ -52,8 +77,14 @@ const config: Config = {
       respectPrefersColorScheme: false,
     },
     navbar: {
-      title: '🎉 Awesome Entertainment',
+      title: 'Awesome Entertainment',
       items: [
+        {
+          to: '/',
+          position: 'left',
+          label: 'Home',
+          exact: true,
+        },
         {
           type: 'docSidebar',
           sidebarId: 'mainSidebar',
@@ -73,10 +104,10 @@ const config: Config = {
         {
           title: 'Categories',
           items: [
-            {label: 'Movies & Series', to: '/movies-series'},
-            {label: 'Anime', to: '/anime'},
-            {label: 'Manga', to: '/manga'},
-            {label: 'Applications', to: '/applications'},
+            {label: 'Movies & Series', to: '/docs/movies-series'},
+            {label: 'Anime', to: '/docs/anime'},
+            {label: 'Manga', to: '/docs/manga'},
+            {label: 'Applications', to: '/docs/applications'},
           ],
         },
         {
