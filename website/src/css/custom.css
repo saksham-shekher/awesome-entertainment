@@ -3,6 +3,14 @@
  * Establishes root design tokens, theming variables, and core layout modifications.
  */
 
+/* Self-hosted fonts (no external network requests) */
+@import '@fontsource/inter/400.css';
+@import '@fontsource/inter/500.css';
+@import '@fontsource/inter/600.css';
+@import '@fontsource/inter/700.css';
+@import '@fontsource/jetbrains-mono/400.css';
+@import '@fontsource/jetbrains-mono/500.css';
+
 :root {
   --ifm-color-primary: #d71921;
   --ifm-color-primary-dark: #c1161d;
@@ -448,11 +456,14 @@ code {
    LINKS
    ========================================== */
 a {
-  text-decoration: none;
+  text-decoration: underline;
+  text-decoration-thickness: 0.08em;
+  text-underline-offset: 0.12em;
 }
 
 a:hover {
   text-decoration: underline;
+  text-decoration-thickness: 0.12em;
 }
 
 /* ==========================================

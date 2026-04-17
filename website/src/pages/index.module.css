@@ -108,7 +108,7 @@
   padding: 0.875rem 2rem;
   font-size: 0.9rem;
   letter-spacing: -0.02em;
-  background: #cc0000;
+  background: var(--ifm-color-primary);
   color: #fff !important;
   border: none;
   border-radius: 999px !important;
@@ -324,7 +324,7 @@
   font-size: 0.9rem;
   letter-spacing: -0.02em;
   color: #fff !important;
-  background: #cc0000;
+  background: var(--ifm-color-primary);
   border: none;
   border-radius: 999px !important;
   text-decoration: none !important;
