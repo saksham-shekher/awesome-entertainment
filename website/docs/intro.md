@@ -2,7 +2,6 @@
 id: intro
 title: Awesome Entertainment 🎉
 sidebar_label: Overview
-slug: /
 sidebar_position: 1
 ---
 
