@@ -139,6 +139,7 @@
 > Open-source Android apps for streaming anime, reading manga, novels, and more.
 
 - 📱 [CloudStream 3](https://github.com/LagradOst/CloudStream-3) - Plugin-based app for streaming movies, series, anime, and live TV.
+- 📱 [SkyStream](https://github.com/akashdh11/skystream) - A new, cross-platform media streaming application inspired by CloudStream.
 - 📱 [Flixclusive](https://github.com/rhenwinch/Flixclusive) - Material Design movie and series app with a provider plugin system.
 - 📱 [Mihon](https://github.com/mihonapp/mihon) - Open-source manga reader (Tachiyomi successor) with a vast extension library.
 - 📱 [Yokai](https://github.com/null2264/yokai) - Tachiyomi fork with enhanced UI and additional reading features.
