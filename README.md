@@ -150,6 +150,7 @@
 - 📱 [Neko](https://github.com/nekomangaorg/Neko) - MangaDex-focused manga reader with offline reading and tracking.
 - 📱 [TachiyomiSY](https://github.com/jobobby04/TachiyomiSY) - Extended Tachiyomi fork with enhanced source support and tracking options.
 - 📱 [Myne](https://github.com/Pool-Of-Tears/Myne) - Open Library e-book downloader and reader with Material Design.
+- 📱 [Hayai](https://github.com/HayaiApp/hayai) - cherry-picks pieces from across the Tachiyomi ecosystem and adds first-class novel support.
 
 [↑ Back to top](#-table-of-contents)
 
