@@ -13,7 +13,7 @@ body:
     attributes:
       label: Resource name
       description: Name of the listed resource with the broken link.
-      placeholder: Example: MangaDex
+      placeholder: "Example: MangaDex"
     validations:
       required: true
   - type: input
@@ -21,7 +21,7 @@ body:
     attributes:
       label: Category
       description: Category where this resource appears.
-      placeholder: Example: Manga
+      placeholder: "Example: Manga"
     validations:
       required: true
   - type: input

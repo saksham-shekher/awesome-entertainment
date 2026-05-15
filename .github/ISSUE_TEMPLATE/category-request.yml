@@ -12,7 +12,7 @@ body:
     id: category-name
     attributes:
       label: Proposed category name
-      placeholder: Example: Podcasts
+      placeholder: "Example: Podcasts"
     validations:
       required: true
   - type: textarea
